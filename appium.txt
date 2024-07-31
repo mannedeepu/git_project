@@ -1,0 +1,3 @@
+appium server -pa /wd/hub------------------to open appium
+
+install maven and set sysetem proeprties
